@@ -1,0 +1,49 @@
+
+     * {
+            box-sizing: border-box;
+        }
+
+        body,
+        h1,
+        h2,
+        div,
+        p {
+            margin: 0;
+        }
+        th,
+        td { padding: 20px;
+            border:1px solid white 
+            
+            
+            
+            
+        }
+        th {
+            padding: 20px;
+            background-color:#0F4D6D ;
+        }
+        h1 {font-size: 36px;}
+        h2 {width: 24px;
+            margin-bottom: 20px ;
+        margin-left: 35px;}
+        body {
+            width: auto;
+            height: 100vh;
+            padding: 35px 143px 95px;
+            font-family: 'StratosSkyeng', sans-serif;
+            color: #fff;
+            background: linear-gradient(130deg, rgba(173, 97, 255, 1) 0%, rgba(134, 119, 255, 1) 45%, rgba(0, 193, 255, 1) 100%);
+        }
+        table {
+            border-collapse: collapse;
+            width:100%
+        }
+        li {font-size: 24px;}
+        
+    
+
+
+
+
+
+
