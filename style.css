@@ -12,7 +12,8 @@
         }
         th,
         td { padding: 20px;
-            border:1px solid white 
+            border:1px solid white ;
+            
             
             
             
@@ -26,6 +27,7 @@
         h2 {width: 24px;
             margin-bottom: 20px ;
         margin-left: 35px;}
+        
         body {
             width: auto;
             height: 100vh;
@@ -38,7 +40,8 @@
             border-collapse: collapse;
             width:100%
         }
-        li {font-size: 24px;}
+        li {font-size: 20px;}
+
         
     
 
